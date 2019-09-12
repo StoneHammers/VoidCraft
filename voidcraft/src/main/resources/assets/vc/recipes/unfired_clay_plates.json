@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "RRR"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "minecraft:clay_ball"
+        }
+    },
+    
+    "result":
+    {
+        "item": "vc:unfired_clay_plate",
+        "count": 1
+    }
+}

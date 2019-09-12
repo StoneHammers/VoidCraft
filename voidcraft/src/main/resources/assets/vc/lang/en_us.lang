@@ -1,0 +1,25 @@
+
+//Items
+item.crystal_fragment.name=Crystal Fragment
+item.mint_leaves.name=Mint Leaves
+item.crystal_sword.name=Crystal Sword
+item.unfired_clay_plate.name=Unfired Clay Plate
+item.fired_clay_plate.name=Fired Clay Plate
+item.ceramic_shovel.name=Ceramic Shovel
+
+
+//Blocks
+tile.dolomite_raw_block.name=Dolomite
+tile.dolomite_brick_block.name=Dolomite Brick
+tile.dolomite_cobble_block.name=Dolomite Cobble
+tile.void_ore.name=Void Ore
+
+//armor
+item.ceramic_boots.name=Ceramic Boots
+item.ceramic_chestplate.name=Ceramic Chestplate
+item.ceramic_helmet.name=Ceramic Helmet
+item.ceramic_leggings.name=Ceramic Leggings
+
+
+//Food
+item.slurm_ball.name=Slurm Ball

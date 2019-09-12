@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "vc:dolomite_cobble_block" }
+    }
+}

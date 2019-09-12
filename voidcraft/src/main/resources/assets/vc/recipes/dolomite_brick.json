@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        
+        "RR",
+        "RR"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "vc:dolomite_raw_block"
+        }
+    },
+    
+    "result":
+    {
+        "item": "vc:dolomite_brick_block",
+        "count": 4
+    }
+}

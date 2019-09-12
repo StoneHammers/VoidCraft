@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "P",
+        "R",
+        "R"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "minecraft:stick"
+        },
+        "P":
+        {
+            "item": "vc:fired_clay_plate"
+        }
+        
+        
+    },
+    
+    "result":
+    {
+        "item": "vc:ceramic_shovel",
+        "count": 1
+    }
+}

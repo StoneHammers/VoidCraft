@@ -1,0 +1,12 @@
+[{
+  "modid": "vc",
+  "name": "VoidCraft",
+  "description": "Long lost wonders.",
+  "version": "1.0.0.0",
+  "mcversion": "1.12.2",
+  "logoFile": "",
+  "url": "",
+  "updateJSON": "",
+  "authorList": ["StoneHammers"],
+  "credits": "I'd like to thank my mother and father."
+}]
